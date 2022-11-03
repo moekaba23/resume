@@ -2,6 +2,8 @@
 
 ##### Hi, I'm Mohamed Kaba and I'm a user experience designer & front end developer!
 
+[Click here](https://www.mohamedkaba.dev) to check out my portfolio
+
 ---
 
 ### EDUCATION
