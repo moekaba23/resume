@@ -45,7 +45,9 @@ Buffalo Educational Center | Web Content & Marketing - Intern | Buffalo, NY
 
 ---
 
-### DESIGN PROJECTS
+### PROJECTS
+
+Bon Appetit Cuisine | Web Designer/Developer | Detroit, MI
 
 Urban Health Plan | UI/UX Designer | New York, NY
 
