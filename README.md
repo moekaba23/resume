@@ -13,11 +13,13 @@ University at Buffalo | B.A in Studio Arts (Graphic Design)
 
 ### WORK EXPERIENCE
 
-Mov. | Product Designer - Contractor | New York, NY
+NBCUniversal | UX Designer - Contractor | New York, NY
+
+Urban Health Plan | Web/UI Designer | Bronx, NY
+
+Mov. | Product Designer  | New York, NY
 
 University Prep Schools | Web/UI/UX Designer - Contractor | Detroit, MI
-
-Buffalo Educational Center | Web Content & Marketing - Intern | Buffalo, NY
 
 ---
 
@@ -40,17 +42,9 @@ Buffalo Educational Center | Web Content & Marketing - Intern | Buffalo, NY
 * CSS
 * JavaScript
 * Figma
+* Webflow
 * Sketch
-* InVision
 * Adobe Illustrator
 * Adobe InDesign
-
----
-
-### PROJECTS
-
-Bon Appetit Cuisine | Web Designer/Developer | Detroit, MI
-
-Urban Health Plan | UI/UX Designer | New York, NY
 
 ---
